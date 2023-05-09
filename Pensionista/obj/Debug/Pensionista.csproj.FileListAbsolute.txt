@@ -1,0 +1,8 @@
+C:\Users\victo\source\repos\Pensionista\Pensionista\bin\Debug\Pensionista.exe.config
+C:\Users\victo\source\repos\Pensionista\Pensionista\bin\Debug\Pensionista.exe
+C:\Users\victo\source\repos\Pensionista\Pensionista\bin\Debug\Pensionista.pdb
+C:\Users\victo\source\repos\Pensionista\Pensionista\obj\Debug\Pensionista.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Pensionista\Pensionista\obj\Debug\Pensionista.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\source\repos\Pensionista\Pensionista\obj\Debug\Pensionista.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Pensionista\Pensionista\obj\Debug\Pensionista.exe
+C:\Users\victo\source\repos\Pensionista\Pensionista\obj\Debug\Pensionista.pdb
